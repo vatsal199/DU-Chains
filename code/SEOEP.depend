@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1491594371 source:c:\users\vatsa\desktop\seoep\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+	<algorithm>
+	<string.h>
+	<cstddef>
+	<stdlib.h>
+	<cstdio>
+
